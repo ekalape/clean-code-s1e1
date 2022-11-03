@@ -33,8 +33,8 @@
 }
 
 .add-task__item-wrapper {
-   display: flex;
-   margin-top: 30px;
+  display: flex;
+  margin-top: 30px;
 }
 
 .task-list {
@@ -105,7 +105,6 @@
 
 #new-task {
   width: 318px;
-  
 }
 
 /* Task list */
@@ -130,7 +129,7 @@
 }
 
 .task-list__item > .task {
-   width: 226px;
+  width: 226px;
 }
 
 .task-list-item__image{
